@@ -15,15 +15,26 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 
-### User will signup or login via authentic credentials
+### User will login via authentic credentials
 
-![Screenshot (197)](https://github.com/ankan945/Ankan_food/assets/119874965/1c336965-70cb-48be-b39b-da315c4906c0)
+ ![Screenshot (1)](https://github.com/user-attachments/assets/ff2a7a30-5023-4575-bbe3-4d150f05b5d0)
 
-![Screenshot (199)](https://github.com/ankan945/Ankan_food/assets/119874965/10f4b987-7302-447a-bf62-f9d4edbfc3f5)
+### If User has not signed up yet then user have to Sign up first
+
+![Screenshot (5)](https://github.com/user-attachments/assets/7fb7d2a0-2092-4d94-8621-0f24823cefbe)
 
 ### After loging in the Ui will be like this
 
-![Screenshot (200)](https://github.com/ankan945/Ankan_food/assets/119874965/665bce3b-6e3a-4df2-a876-4a2222729dec)
+![Screenshot (2)](https://github.com/user-attachments/assets/9e2b9652-20e6-4cf6-9423-9bf4c5ccbcbd)
+
+### Here User can see his/her profile also after successful login
+
+![Screenshot (6)](https://github.com/user-attachments/assets/96d60158-686d-48c5-952a-2acb3a664584)
+
+### We can also view our order history in Empire-Food
+
+![Screenshot (4)](https://github.com/user-attachments/assets/1846c1b7-23e5-4945-8bdb-d564c4ab71b1)
+
 
 ### User can choose his/her food item and add items to the cart list
 
