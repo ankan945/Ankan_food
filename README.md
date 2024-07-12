@@ -27,6 +27,10 @@ You may also see any lint errors in the console.
 
 ![Screenshot (2)](https://github.com/user-attachments/assets/9e2b9652-20e6-4cf6-9423-9bf4c5ccbcbd)
 
+### User can go to our About section also
+
+![Screenshot (3)](https://github.com/user-attachments/assets/1cd8985f-da7a-408e-93c8-3734de8d6f28)
+
 ### Here User can see his/her profile also after successful login
 
 ![Screenshot (6)](https://github.com/user-attachments/assets/96d60158-686d-48c5-952a-2acb3a664584)
